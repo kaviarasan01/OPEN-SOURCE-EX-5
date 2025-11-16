@@ -8,3 +8,5 @@
 3) The user harry must configure cron job that runs daily at 12 noon local time and execute logger message "EX200 in Progress"
 
  <img width="518" height="128" alt="image" src="https://github.com/user-attachments/assets/f2f48c78-7720-4a4b-bbd3-d33651a52147" />
+ <img width="577" height="118" alt="image" src="https://github.com/user-attachments/assets/b54ba73b-4136-4e96-8ae8-ca129bba6daf" />
+
